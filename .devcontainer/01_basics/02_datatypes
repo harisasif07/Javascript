@@ -1,0 +1,10 @@
+//DATA TYPES
+
+// Const
+//let
+//var
+//null 
+//bollen
+//string
+
+console.log(typeof age)

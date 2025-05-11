@@ -1,0 +1,15 @@
+const AccountId = 70139209
+let AccountEmail = "harisasif555@gmail.com"
+var Accountpass = "1234"
+Accountcity = "Lahore"
+let Accountstate 
+
+
+//AccountId = 2
+
+console.log(AccountId);
+
+console.table([AccountId,AccountEmail,Accountpass,Accountcity,Accountstate]);
+
+//Dont use var variable . only use let and const
+
